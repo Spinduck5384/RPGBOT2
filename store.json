@@ -1,0 +1,197 @@
+{
+    "item": {
+        "Blazer Bomb": {
+            "class": "item",
+            "description": "A fire bomb, very powerful. Creates sheet of flame upon detonation, rather then explosive power. Will come with a timer or a detonation switch",
+            "price": 15000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Concussion Grenade": {
+            "description": "Upon detonation, there will be an outward blast, strong enough to push a clone or B1 droid off its feet if detonated at least 3 meters away. Maximum range for any knockback taken is 7 meters",
+            "price": 5000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Detonation Pack": {
+            "class": "item",
+            "description": "A detonation pack (also called det pack or a detpack) was a small explosive with a remote activator that could be triggered by the user. The pack was set in place or thrown, and then detonated whenever the user desired",
+            "price": 10000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Flash Grenade": {
+            "class": "item",
+            "description": "When exploded, a strong white flash will be seen, blinding an organic target for 5 seconds, and confusing a droid for 3 seconds. This effect will only occur if the flash is within 3 meters of the target",
+            "price": 5000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Jetpack": {
+            "class": "item",
+            "description": "The jetpack is a wearable item that hangs off your back. When activated, a hot, steady stream of fire will be shot out from the 2 exit chambers, lifting the user off the ground, and into the air. The jetpack can be used for 20 seconds straight, and has a refueling time (it refuels when you are on the ground) of 50 seconds, before it can be used again",
+            "price": 500000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Jumppack": {
+            "class": "item",
+            "description": "Similar to the jetpack, the jumppack was used to boost the wearer up, or away, from their current location. The sudden burst of fire and fuel will last only for 7 seconds, then shut off, refueling only in 30 seconds. In the right conditions, the jumppack can carry the user more than 50 meters from the current destination",
+            "price": 250000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Ship Repair Kit": {
+            "class": "item",
+            "description": "A single ship repair kit will be able to repair any ship, up to the size of an Aledaraanian Corvette (Example being the TANTIVE IV). The ship will be fully repaired after 3 (roleplay) days",
+            "price": 750000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Smoke Bomb": {
+            "class": "item",
+            "description": "Creates a white smoke screen 2x2 meters large",
+            "price": 5000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Stealth Drive": {
+            "class": "item",
+            "description": "The stealth drive is an attachable drive that can be fused to any ship, rendering it invisible and unable to be detected from any scanner for 5 minutes",
+            "price": 10000000,
+            "roles": [
+                "<@&797789954964586506>",
+                "<@&797789982311317515>"
+            ],
+            "stock": "infinity"
+        },
+        "Stun Cuffs": {
+            "class": "item",
+            "description": "Stun cuffs, also known as cuffs or simply binders, were devices made of durasteel used to restrict the movement of a captive's limbs. The thin but unbreakable cuffs were commonly used to bind a prisoner's hands, but could also be used to bind both feet, one arm and one leg, or one limb to a stationary object to further immobilize a captive",
+            "price": 25000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Stun Grenade": {
+            "class": "item",
+            "description": "A stun grenade has a diameter of 2 meters, in which an electrical shock will freeze any species there for 3 seconds. There is no lasting effect",
+            "price": 6000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Thermal Detonator": {
+            "class": "item",
+            "description": "The thermal detonator packs a huge punch, and really does the job nicely",
+            "price": 7000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Wrist Grappler": {
+            "class": "item",
+            "description": "A wrist attached device that lets you grab onto anything within 25 meters of you",
+            "price": 100000,
+            "roles": "None",
+            "stock": "infinity"
+        }
+    },
+    "ship": {
+        "Skipray Boat": {
+            "class": "ship",
+            "description": "2nd Cheapest ship lmao",
+            "price": 3500000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "XD-180": {
+            "class": "ship",
+            "description": "Cheapest ship lmao",
+            "price": 3000000,
+            "roles": "None",
+            "stock": "infinity"
+        }
+    },
+    "unit": {
+        "Foot Trooper Unit": {
+            "class": "unit",
+            "description": "Expendable soldiers",
+            "price": 3000000,
+            "roles": [
+                "<@&797789954964586506>",
+                "<@&797789982311317515>"
+            ],
+            "stock": 9481
+        },
+        "Jet Trooper Unit": {
+            "class": "unit",
+            "description": "also expendable, but more expensive",
+            "price": 10000000,
+            "roles": "None",
+            "stock": 0
+        }
+    },
+    "weapon": {
+        "Cycler Rifle": {
+            "class": "weapon",
+            "description": "A marksman rifle used by the Tuskan Raiders of Tatooine. Uses outdated technology and bullet rounds. Requires ammunition, but those are in free supply, and a Cycler Rifle can carry up to 20 rounds in various chambers and carved pockets in the rifle itself. It can go through shields and is good for sniping \"unnoticed\"",
+            "price": 40000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "DE-10": {
+            "class": "weapon",
+            "description": "The DE-10 blaster pistol was a stylish and reliable heavy blaster pistol that was manufactured by Antrech Arms, a subsidiary of BlasTech Industries. It was vaunted for its reliability and ease of maintenance, and heavily resembled a slugthrower revolver",
+            "price": 40000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "DL-18 Blaster Pistol": {
+            "class": "weapon",
+            "description": "The DL-18 blaster pistol was a model of blaster pistol commonly used throughout the galaxy, particularly by bounty hunters and smugglers. The blaster, manufactured by BlasTech Industries, was inexpensive and allowed for easy customization",
+            "price": 40000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Dual WESTAR-34 Blaster Pistols": {
+            "class": "weapon",
+            "description": "The Dual WESTAR-34 Pistols are lightweight, sleek, and can be fired with a better-than-average speed, if both are implemented. Separated, the wielder would have lost a rapid-fire advantage",
+            "price": 125000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Dual WESTAR-35 Blaster Pistols": {
+            "class": "weapon",
+            "description": "The WESTAR-35 Pistols are a successor to the WESTAR-34 pistols, with a higher damage output, hgiher accuracy, and fire rate than the WESTAR-34",
+            "price": 200000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "EE-3 Carbine Rifle": {
+            "class": "weapon",
+            "description": "A lethal weapon, extremely deadly in the right hands. It fires three times in the space of a second, but is a burst rifle, which means you gotta be accurate",
+            "price": 100000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Scattergun": {
+            "class": "weapon",
+            "description": "A slug shotgun used by CIS organic soldiers, various Bounty Hunters or Jedi Hunters, the scattergun is a short slugthrower-type weapon made for close quarters combat",
+            "price": 125000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Vibroblade": {
+            "class": "weapon",
+            "description": "Used by the feared BX-Commando Droids of the CIS army, a vibroblade can cut through Plasteel armor with several concise hits, but will only effect Durasteel (and stronger materials) if hit in a harder, and more quick manner",
+            "price": 25000,
+            "roles": "None",
+            "stock": "infinity"
+        },
+        "Wrist Rocket Launcher": {
+            "class": "weapon",
+            "description": "Wrist rocket launchers were miniaturized missile launchers capable of being worn on the wrist. They fired various types of wrist rockets, including darts and small missiles. They were a favorite of bounty hunters due to their discreet nature, versatility, and power",
+            "price": 200000,
+            "roles": "None",
+            "stock": "infinity"
+        }
+    }
+}

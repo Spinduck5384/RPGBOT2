@@ -1,0 +1,119 @@
+{
+    "583610940264546310": {
+        "B1-3931": {
+            "armor": "Standard B1 Droid Armor Plating",
+            "faction": "Separatist",
+            "is_character": "no",
+            "items": [
+                "Manual Repair Kit",
+                "Thermal Detonator"
+            ],
+            "job": "B1 Battle Droid",
+            "legion": "None",
+            "money": 0,
+            "roles": [
+                "Separatist",
+                "B1 Battle Droid"
+            ],
+            "ships": [],
+            "species": "droid",
+            "weapons": [
+                "E-5"
+            ]
+        },
+        "B2-9401": {
+            "armor": "Standard B2 Droid Armor Plating",
+            "faction": "Separatist",
+            "is_character": "no",
+            "items": [
+                "Manual Repair Kit",
+                "Jetpack",
+                "Jetpack"
+            ],
+            "job": "B2 Super Battle Droid",
+            "legion": "None",
+            "money": 0,
+            "roles": [
+                "Separatist",
+                "B2 Super Battle Droid"
+            ],
+            "ships": [],
+            "species": "droid",
+            "weapons": [
+                "Wrist Rocket",
+                "B2 Arm Blaster"
+            ]
+        },
+        "CT-3428 \"Ahf\"": {
+            "armor": "Standard Phase 2 Clone Trooper Armor",
+            "faction": "Republic",
+            "is_character": "no",
+            "items": [
+                "Thermal Detonator",
+                "Healthpack"
+            ],
+            "job": "Clone Trooper",
+            "legion": "91st Reconnaissance Corps",
+            "money": 0,
+            "roles": [
+                "Republic",
+                "Clone Trooper",
+                "91st Reconnaissance Corps"
+            ],
+            "ships": [],
+            "species": "human",
+            "units": [],
+            "weapons": [
+                "DC-15S"
+            ]
+        },
+        "Kik Klers": {
+            "armor": "None",
+            "faction": "Bounty Hunter Guild",
+            "is_character": "yes",
+            "items": [
+                "Ship Repair Kit",
+                "Ship Repair Kit",
+                "Stealth Drive",
+                "Stealth Drive"
+            ],
+            "job": "Bounty Hunter",
+            "legion": "None",
+            "money": 999999999999999952500000,
+            "roles": [
+                "Bounty Hunter Guild",
+                "Bounty Hunter",
+                "Trandoshan"
+            ],
+            "ships": [],
+            "species": "Trandoshan",
+            "units": [
+                "Foot Trooper Unit",
+                "Foot Trooper Unit",
+                "Jet Trooper Unit",
+                "Jet Trooper Unit",
+                "Foot Trooper Unit"
+            ],
+            "weapons": []
+        }
+    },
+    "742648506971324428": {
+        "Cank Agryg": {
+            "armor": "Mandalorian Lightweight Plasteel Armor",
+            "faction": "Mandalorian",
+            "is_character": "yes",
+            "items": [],
+            "job": "Foundling",
+            "legion": "None",
+            "money": 2003,
+            "roles": [
+                "Mandalorian",
+                "Foundling"
+            ],
+            "ships": [],
+            "species": "Mandalorian",
+            "units": [],
+            "weapons": []
+        }
+    }
+}
